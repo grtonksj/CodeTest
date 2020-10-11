@@ -1,3 +1,4 @@
+package CodeTest;
 import java.util.Scanner;
 
 //백준 2920번
