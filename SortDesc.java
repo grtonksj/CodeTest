@@ -5,7 +5,8 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.io.IOException;
 
-
+//백준 1427번
+//배열
 public class SortDesc {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
